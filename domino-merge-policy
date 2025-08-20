@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy for Dominoes Merge: Fun Brick</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0 auto;
+            max-width: 800px;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Privacy Policy for Dominoes Merge: Fun Brick</h1>
+
+    <p><strong>Effective Date:</strong> August 20, 2025</p>
+
+    <p>
+        Thank you for playing Dominoes Merge: Fun Brick ("the game", "the app"). This Privacy Policy describes how <strong>Three Hedgehog</strong> ("we", "us", or "our") collects, uses, and shares information about you when you use our game.
+    </p>
+
+    <p>
+        By installing and using the game, you agree to the collection and use of information in accordance with this policy.
+    </p>
+
+    <h2>1. Information We Collect</h2>
+
+    <p>
+        We collect information to provide and improve the game experience for you. The types of information collected include:
+    </p>
+
+    <p><strong>a) Data Collected Automatically (via third-party services):</strong></p>
+    <p>
+        When you play the game, some information may be collected automatically by our service partners (e.g., ad providers, analytics tools). This information is generally non-personal and includes:
+    </p>
+    <ul>
+        <li><strong>Device Information:</strong> Operating system and version, device type, IP address, and device identifiers (such as Google Advertising ID - GAID).</li>
+        <li><strong>Usage Data:</strong> Information about how you interact with the game, such as levels played, session duration, features used, and in-game events.</li>
+        <li><strong>Advertising Data:</strong> Information about the ads you have seen, the number of times they were shown, and your interactions with them.</li>
+        <li><strong>Crash Data:</strong> Crash reports and diagnostic information to help us fix bugs and improve the app's stability.</li>
+    </ul>
+
+    <p><strong>b) Information You Provide to Us:</strong></p>
+    <p>
+        We do not require you to provide personally identifiable information like your name or email to play the game. If you contact us for support, we will collect the information you provide in your email or other communication channel to resolve your issue.
+    </p>
+
+    <h2>2. How We Use Your Information</h2>
+
+    <p>We use the collected information for the following purposes:</p>
+    <ul>
+        <li><strong>To operate and maintain the game:</strong> To provide features, fix bugs, and ensure the game runs smoothly.</li>
+        <li><strong>To show advertisements:</strong> Our game is supported by ads. We use third-party advertising services to display ads that may be relevant to your interests.</li>
+        <li><strong>To analyze and improve the game:</strong> To understand how players interact with the game in order to improve gameplay, graphics, and other features.</li>
+        <li><strong>To comply with legal obligations.</strong></li>
+    </ul>
+
+    <h2>3. Sharing Your Information</h2>
+
+    <p>
+        We do not sell your personal information. However, we may share non-personal information with third-party partners for the following purposes:
+    </p>
+    <ul>
+        <li>
+            <strong>Advertising Service Providers:</strong> We partner with ad networks to display advertisements in the app. These partners may collect usage and device data to serve personalized ads. Our partners may include:
+            <ul>
+                <li>Google AdMob</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Analytics Service Providers:</strong> We use analytics tools to better understand user behavior.
+            <ul>
+                <li>Google Analytics for Firebase</li>
+            </ul>
+        </li>
+    </ul>
+    <p>
+        These partners have their own privacy policies. We encourage you to read their policies for more details.
+    </p>
+
+    <h2>4. Children's Privacy</h2>
+    <p>
+        Our game is not directed to children under the age of 13 (or the equivalent minimum age in the relevant jurisdiction). We do not knowingly collect personally identifiable information from children. If you are a parent or guardian and you are aware that your child has provided us with information, please contact us so that we can take necessary actions.
+    </p>
+
+    <h2>5. Security</h2>
+    <p>
+        We value the security of your information and use commercially reasonable measures to protect it. However, no method of transmission over the internet or method of electronic storage is 100% secure, so we cannot guarantee its absolute security.
+    </p>
+
+    <h2>6. Changes to This Privacy Policy</h2>
+    <p>
+        We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Policy periodically for any changes.
+    </p>
+
+    <h2>7. Contact Us</h2>
+    <p>
+        If you have any questions about this Privacy Policy, please contact us via email:
+        <strong>threehedgehogaugust@gmail.com</strong>
+    </p>
+
+</body>
+</html>
